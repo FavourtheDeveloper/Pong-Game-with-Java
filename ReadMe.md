@@ -16,4 +16,4 @@
 
 * main(String[] args): This is the entry point of the program. It creates a JFrame, adds an instance of the Pong class to it, and makes the frame visible to start the game.
 
-* Each of these functions plays a crucial role in implementing the game logic, rendering graphics, handling user input, and managing the game loop. Understanding these functions will help you and your project mates master the Pong game implementation and make any necessary modifications or enhancements to it.
+* Each of these functions plays a crucial role in implementing the game logic, rendering graphics, handling user input, and managing the game loop. Understanding these functions will help us master the Pong game implementation and make any necessary modifications or enhancements to it.
